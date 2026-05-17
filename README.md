@@ -1,6 +1,3 @@
-Bloco completo pra copiar:
-
----
 
 # Oi, eu sou a Marcela 👋
 
@@ -52,5 +49,3 @@ Antes de dados, fui criadora de realidade aumentada. Trabalhei com Meta, Embratu
 💼 [LinkedIn](https://linkedin.com/in/amarcelasilva)
 
 ---
-
-Agora cria o repositório `facilita-bi-ecosystem` e me avisa que eu gero o README dele.
