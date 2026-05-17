@@ -1,16 +1,17 @@
-## Hi there 👋
+# Oi, eu sou a Marcela 👋
 
-<!--
-**marcelads/marcelads** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Analista de Dados com foco em BI, automação e arquitetura de sistemas analíticos. Trabalho na interseção entre dados, engenharia e produto — do dashboard executivo ao backend de produção.
 
-Here are some ideas to get you started:
+Comecei na operação. Onze anos depois, estou transformando operação em dado.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## O que eu construo
+
+- **Dashboards executivos** — Power BI multi-tenant, DAX, Power Query (M), isolamento de dados por cliente no nível do modelo
+- **Sistemas analíticos** — backends FastAPI, bancos relacionais, pipelines de ingestão, RLS em múltiplas camadas
+- **Automações** — extração de PDFs, conversores de sistemas legados, geração de apresentações, apps desktop distribuíveis
+
+---
+
+## Stack
