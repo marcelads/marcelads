@@ -31,11 +31,12 @@ Infra            →   Railway · Git · DBeaver
 
 | Projeto | Descrição | Stack |
 |---|---|---|
-| [Facilita BI — Ecossistema Analítico](#) | BI multi-tenant servindo diretoria, clientes e operação com isolamento de dados por associação | Power BI · DAX · M |
+| [Facilita BI — Ecossistema Analítico](https://github.com/marcelads/F-bi-ecosystem) | BI multi-tenant servindo diretoria, clientes e operação com isolamento de dados por associação | Power BI · DAX · M |
+| [BI Associação — Financeiro & Comercial](https://github.com/marcelads/bi-associacao-financeiro-comercial) | Dashboards financeiro e comercial com rateio proporcional de custos e participação de mercado | Power BI · DAX · Python |
 | [Performance Hub](#) | Sistema de gamificação comercial com ranking, metas, premiação e fechamento auditável | FastAPI · MySQL · React · Power BI |
 | [PDF Payslip Extractor](#) | Extração automática de contracheques PDF para Excel estruturado | Python · pdfplumber · openpyxl |
 | [PPTX Pipeline](#) | Geração automatizada de apresentações com design consistente | Node.js · pptxgenjs · LibreOffice |
-| [Contract Change Tracker](#) | Detecção automática de mudanças contratuais entre snapshots diários | Python · pandas · Tkinter |
+| [Contract Change Tracker](#) | Detecção automática de mudanças contratuais entre snapshots diários | Python · pandas · Tkinter |hange Tracker](#) | Detecção automática de mudanças contratuais entre snapshots diários | Python · pandas · Tkinter |
 
 ---
 
