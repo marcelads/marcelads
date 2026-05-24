@@ -1,7 +1,7 @@
 
 # Oi, eu sou a Marcela 👋
 
-Analista de Dados com foco em BI, automação e arquitetura de sistemas analíticos. Trabalho na interseção entre dados, engenharia e produto — do dashboard executivo ao backend de produção.
+Analista de Dados com foco em BI, automação e arquitetura de sistemas analíticos. Trabalho na interseção entre dados, engenharia e produto — do dashboard executivo ao sistemas analíticos em produção.
 
 Comecei na operação. Onze anos depois, estou transformando operação em dado.
 
@@ -40,7 +40,7 @@ Infra            →   Railway · Git · DBeaver
 
 ## Sobre mim
 
-Antes de dados, fui criadora de realidade aumentada. Trabalhei com Meta, Embratur e Governo da Bahia, venci um concurso global da Meta e palestrei sobre tecnologias emergentes. Quando a plataforma foi descontinuada em 2025, virei a chave para dados — e não olhei para trás.
+Antes de dados, fui criadora de realidade aumentada. Trabalhei com Meta, Embratur e Governo da Bahia, venci um concurso global da Meta e palestrei sobre tecnologias emergentes. Quando a plataforma foi descontinuada em 2025, direcionei minha atuação para dados e automação, não olhei para trás.
 
 ---
 
